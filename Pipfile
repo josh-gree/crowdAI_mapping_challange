@@ -11,6 +11,10 @@ jupyter = "*"
 jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
+numpy = "*"
+shapely = "*"
+scipy = "*"
+pillow = "*"
 
 
 [dev-packages]
