@@ -15,6 +15,9 @@ numpy = "*"
 shapely = "*"
 scipy = "*"
 pillow = "*"
+opencv-python = "*"
+"h5py" = "*"
+deepdish = "*"
 
 
 [dev-packages]
